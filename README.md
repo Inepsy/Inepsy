@@ -1,4 +1,4 @@
-## Hello there, I am NotNathan! ![wave](https://user-images.githubusercontent.com/104657171/226482545-76dd5651-42f1-4c45-b637-fae58ad8ae16.gif)
+## Hello there, I am Inepsy! ![wave](https://user-images.githubusercontent.com/104657171/226482545-76dd5651-42f1-4c45-b637-fae58ad8ae16.gif)
 
 ---
 
