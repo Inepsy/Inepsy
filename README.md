@@ -21,7 +21,7 @@
   <a href="https://discord.gg/BJxC9wyuHz">
     <img align="left" alt="Discord" title="Discord" width="30px" src="assets/discord.png">
   </a>
-  <a href="https://twitter.com/notnathan_24">
+  <a href="https://twitter.com/Inepsy_">
     <img align="left" alt="Twitter" title="Twitter" width="30px" src="assets/twitter.png">
   </a>
 <br>
