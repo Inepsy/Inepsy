@@ -14,7 +14,6 @@
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
 [![Code](https://img.shields.io/static/v1?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://code.visualstudio.com/)
-[![Arch](https://img.shields.io/static/v1?style=for-the-badge&logo=Arch+Linux&logoColor=FFFFFF&message=Arch&nbsp;Linux&color=1793D1&label=)](https://archlinux.org/)
 
 ### Connect with Me 🤝🏻📫
 
