@@ -44,13 +44,6 @@
 </details>
 
 <details close>
-<summary>MyAnimeList History 📈</summary>
-<!-- MyAnimeList Activity Start -->
-
-- [Plastic Memories](https://myanimelist.net/anime/27775/Plastic_Memories) ep. 7
-
-<!-- MyAnimeList Activity End -->
-</details>
 
 ---
 
