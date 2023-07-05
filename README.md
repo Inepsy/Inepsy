@@ -24,10 +24,6 @@
   <a href="https://twitter.com/notnathan_24">
     <img align="left" alt="Twitter" title="Twitter" width="30px" src="assets/twitter.png">
   </a>
-  <a href="https://myanimelist.net/profile/NotNathan24">
-    <img align="left" alt="MyAnimeList" title="MyAnimeList" width="30px" src="assets/myanimelist.png">
-  </a>
-</p>
 <br>
 
 ---
