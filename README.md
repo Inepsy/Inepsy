@@ -32,7 +32,7 @@
 <summary>GitHub Statistics 📊</summary>
 <br>
 <p>
-  <a href="https://github.com/NotNathan24" width="100%">
+  <a href="https://github.com/Inepsy" width="100%">
     <img alt="GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=NotNathan24&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true&include_all_commits=true">
     <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotNathan24&langs_count=10&layout=compact&hide_border=true&theme=dark">
   </a>
