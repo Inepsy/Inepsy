@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Inepsy <br><br>- 🔭 I’m working as a game developer<br>- ⚡ In my free time I enjoy playing video games<br>
+<p align="left">I'm Inepsy <br><br>- 🔭 I like programming and and have an interest in Unix and Linux based operating systems<br>- ⚡ In my free time I enjoy playing video games<br>
 
 ###
 
