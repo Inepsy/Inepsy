@@ -37,4 +37,4 @@ silly anime girl on the internet.<br/>
 </details>
 
 ------
-[website:](https://inepsy.me)
+[website](https://inepsy.me)
