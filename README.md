@@ -1,5 +1,5 @@
 # Hi! I'm Inepsy.
-## I'm a catgirl chaos who loves Linux, photography, and retro gaming + tech.
+## I'm a catgirl of chaos who loves Linux, photography, and retro gaming + tech.
 
 ### My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,py,java,rust,vscode,idea,electron,nodejs,discord,bots,linux,bash,docker,raspberrypi)](https://skillicons.dev)
